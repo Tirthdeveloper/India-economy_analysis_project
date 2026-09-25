@@ -42,4 +42,4 @@ This project demonstrates a basic exploratory analysis of India’s economic dat
 ---
 
 ## Author
-Daksh Hasaji
+Tirth Patel
